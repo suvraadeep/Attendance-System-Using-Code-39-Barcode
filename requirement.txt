@@ -1,0 +1,9 @@
+opencv-contrib-python==4.7.0.72
+opencv-python==4.8.0.74
+opencv-python-headless==4.8.0.74
+pyzbar
+pythoncom
+win32com.client
+tkinter
+pandas
+openpyx

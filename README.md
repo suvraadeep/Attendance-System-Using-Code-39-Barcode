@@ -1,9 +1,6 @@
-# Course-ChatBot using Llama-2 7B model
+# Attendance System Using Code 39 Barcode
 
 This Project about Attendance System is utilizing Barcode Scanning method is a Python project tailored for college students and professors (Professors dataset not available hence thispart is Pending). Employing tkinter and pyzbar libraries, it captures barcode information from ID cards through a camera and fetches corresponding details from an Excel sheet. This automated system efficiently updates attendance records in Excel, streamlining the process and minimizing errors. Customized for Core Courses, it provides a user-friendly solution for effective attendance management in educational institutions.
-
-
-
 
 #  Primary contributions
 1. Automated Attendance Management System: Implements automated attendance tracking to save time and minimize errors.
@@ -13,7 +10,8 @@ This Project about Attendance System is utilizing Barcode Scanning method is a P
 5. Security Enhancement: Guarantees system access exclusively for authorized individuals.
 
 # Note
-This architecture utilizes Code 39 as our college uses Code 39 Code 39 is cost effective and straightforward to implement. It doesn't  demand intricate encoding or specialized equipment.
+1. This architecture utilizes Code 39 as our college uses Code 39, Code 39 is cost effective and straightforward to implement. It doesn't  demand intricate encoding or specialized equipment.
+2. I had no data related to faculty list hence The faculty attendance part is pending
 
 # Steps and Architecture
 1. Module Integration: To ensure the seamless operation of our system, I incorporated various essential modules such as pywin32, opencv, time, pyzbar, tkinter, datetime, and openpyxl. These modules serve distinct functionalities to system, contributing to its smooth execution.

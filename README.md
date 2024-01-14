@@ -48,3 +48,8 @@ This module encompasses crucial code snippets necessary for the seamless operati
 5. `Excel.py` - This code excerpt, located in the "module.py" file, facilitates the viewing of specific Excel sheets in a protected view. Its purpose is to enable users to view specific sheets in a workbook without granting them the ability to modify or make changes to the content. This is achieved by concealing all other sheets in the workbook and activating a protected view that restricts the user's ability to edit or interact with the content.
 
 6. `requirement.txt` - This module is to import all required libraries. The libraries used in this project are OpenCV, tkinter, datetime, openpyxl, pyzbar, time, datetime, pywin32, pythoncom
+
+# Paper Followed
+1. K Saranya, R S Reminaa, S Subhitsha, “Modern Applications of QR-Code for Security”, in 2016 2nd IEEE International Conference on Engineering and Technology (ICETECH)
+2. Khang Jie Liew, Tee Hean Tan, “QR Code -Based Student Attendance System”, in 2021 2nd Asia Conference on Computers and Communications (ACCC)
+3. Shailendra, Manjot Singh, Md. Alam Khan, Vikram Singh, Avinash Patil, Sushma Wadar, “Attendance Management System”, in 2015 IEEE Sponsored 2nd International Conference on Electronics and Communications System (ICECS)

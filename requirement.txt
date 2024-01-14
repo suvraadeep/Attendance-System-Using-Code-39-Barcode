@@ -6,4 +6,5 @@ pythoncom
 win32com.client
 tkinter
 pandas
+numpy
 openpyx
